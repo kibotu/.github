@@ -64,7 +64,7 @@ less than a lost contributor.
 
 ## How to report
 
-Send a report to **jan@kibotu.net**. Include:
+Send a report to **jan.rabe@kibotu.net**. Include:
 
 - How to reach you.
 - The names, handles, or pseudonyms of the people involved, and of any witnesses.
