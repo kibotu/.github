@@ -1,5 +1,7 @@
 # `kibotu/.github`
 
+![](docs/teaser.png)
+
 Default community health files for the [`kibotu`](https://github.com/kibotu) account.
 
 GitHub gives one repository name special power: `.github`. A file here applies to every `kibotu/*`
