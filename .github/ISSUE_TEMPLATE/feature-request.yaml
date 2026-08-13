@@ -5,12 +5,12 @@ body:
   - type: textarea
     attributes:
       label: Feature description
-      description: Describe the feature you would like to see added to Ruler.
+      description: Describe the feature you would like to see added.
     validations:
       required: false
   - type: textarea
     attributes:
       label: Reasoning
-      description: Explain what benefits this feature brings and how it is applicable to other users of Ruler.
+      description: Explain what benefits this feature brings and how it is applicable to other users.
     validations:
       required: false
