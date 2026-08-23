@@ -27,6 +27,7 @@ me that something was missing. Corrections are welcome.
 | [`.github/ISSUE_TEMPLATE/feature-request.yaml`](.github/ISSUE_TEMPLATE/feature-request.yaml) | Feature request form. Labels the issue `enhancement` |
 | [`.github/PULL_REQUEST_TEMPLATE.md`](.github/PULL_REQUEST_TEMPLATE.md) | Pre-fills the pull request body: what changed, why, related issues |
 | [`FUNDING.yml`](FUNDING.yml) | Renders the Sponsor button |
+| [`apply-repo-defaults/`](apply-repo-defaults/) | Script that applies account-wide repository settings (features, merges, sponsor button, immutable releases) to one repo or all of them |
 | [`LICENSE`](LICENSE) | Apache 2.0, for this repository only. A license cannot be defaulted — see [the rules](#the-rules) |
 | [`.gitignore`](.gitignore) | macOS, Windows, JetBrains, and VS Code noise |
 
