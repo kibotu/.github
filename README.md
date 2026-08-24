@@ -28,6 +28,7 @@ me that something was missing. Corrections are welcome.
 | [`.github/PULL_REQUEST_TEMPLATE.md`](.github/PULL_REQUEST_TEMPLATE.md) | Pre-fills the pull request body: what changed, why, related issues |
 | [`FUNDING.yml`](FUNDING.yml) | Renders the Sponsor button |
 | [`apply-repo-defaults/`](apply-repo-defaults/) | Script that applies account-wide repository settings (features, merges, sponsor button, immutable releases) to one repo or all of them |
+| [`update-about/`](update-about/) | Script that fills missing "About" sections (description and topics) via one isolated LLM call per repository, with before/after report |
 | [`LICENSE`](LICENSE) | Apache 2.0, for this repository only. A license cannot be defaulted — see [the rules](#the-rules) |
 | [`.gitignore`](.gitignore) | macOS, Windows, JetBrains, and VS Code noise |
 

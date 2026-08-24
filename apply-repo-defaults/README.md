@@ -14,7 +14,7 @@ apply-repo-defaults
   target  : all repositories owned by kibotu (321) — applying in parallel
 
 ✓ kibotu/ANR-Spy [issues off → on; sponsor button off → on]
-✓ kibotu/AOHostels [wiki on → off; projects on → off; auto-delete branches off → on]
+✓ kibotu/Agrona [wiki on → off; projects on → off; auto-delete branches off → on]
 = kibotu/uCrop (already at defaults)
 
 Summary: 309 applied, 12 skipped.
